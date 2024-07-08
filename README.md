@@ -59,7 +59,7 @@ div{
 
     body{
          font-family: Arial, Helvetica, sans-serif;
-         background-color: #2b2727ce;
+         background-color: #dac9c9ce;
     }
     
   label{
