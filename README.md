@@ -59,6 +59,8 @@ div{
 
     body{
          font-family: Arial, Helvetica, sans-serif;
+         background-color: #3c3737ce;
+    }
 
     }
     
